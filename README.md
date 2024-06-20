@@ -20,7 +20,7 @@ I used a lot of online resources to help me write this, and used modules such as
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10/Apple/Ubuntu</b>
+- <b>Windows 10
 - <b>VS Code</b>
 
 <h2>Program walk-through:</h2>
