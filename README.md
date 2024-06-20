@@ -6,7 +6,7 @@
 
 <h2>Description</h2>
 This project is a HTTP server wrote using python. It was my first major challenge to myself after college ended.<br />
-I used a lot of online resources to help me write this, and used modules such as sys, which I had used briefly before and os, and socket were brand new to me.
+I used a lot of online resources to help me write this, and used modules such as sys, which I had used briefly before and os, and socket, which were brand new to me.
 <br />
 
 
